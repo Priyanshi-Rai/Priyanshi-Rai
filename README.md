@@ -34,7 +34,7 @@
 
 - 💞️ I’m looking to collaborate on projects related to python and web designing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prai/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prai/)
 
 
 ---
