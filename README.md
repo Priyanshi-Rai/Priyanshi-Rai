@@ -68,7 +68,7 @@
 - 💞️ I’m looking to collaborate on projects related to python and web designing.
 - 📫 How to reach me ...
    twitter handle : raisahab_25
-   linkedin : 
+   linkedin :  prai
 --->
 <!---
 Priyanshi-Rai/Priyanshi-Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
