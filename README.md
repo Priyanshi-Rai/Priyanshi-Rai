@@ -24,8 +24,9 @@
 <hr>
 
 ### :woman_technologist: About Me :
-👋 Hi, I’m Priyanshi Rai,a frontend developer and a fullstack learner . I'm interested in Blockchain technology and love to explore different stuff.
+👋 Hi, I’m Priyanshi Rai, a frontend developer and a fullstack learner. I'm interested in Blockchain technology and love to explore different stuff.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
 - :telescope: I’m a student and a future full stack developer.
 
 - :seedling: Exploring Technical Content Writing and new domains.
