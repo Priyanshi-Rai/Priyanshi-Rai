@@ -24,16 +24,16 @@
 <hr>
 
 ### :woman_technologist: About Me :
-👋 Hi, I’m Priyanshi Rai, a frontend developer and a fullstack learner. I'm interested in Blockchain technology and love to explore different stuff.
+👋 Hi, I’m Priyanshi Rai, a frontend developer and a UI/UX designer. I'm interested in Web3 and love to explore different stuff.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- :telescope: I’m a student and a future full stack developer.
+- :telescope: I’m a student and a I love exploring new fields. Currently I'm a degen with [social3](https://app.social3.club/) and creating a first ever web3 based hiring plattform..
 
-- :seedling: Exploring Technical Content Writing and new domains.
+- :seedling: Exploring Technical Content Writing and graphic designing.
 
 - :zap: In my free time, I solve problems on codechef and read articles.
 
-- 💞️ I’m looking to collaborate on projects related to python and web designing.
+- 💞️ I love community meetups and connecting with different people.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prai/)
 
